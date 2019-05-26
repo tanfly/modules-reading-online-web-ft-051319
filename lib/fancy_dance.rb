@@ -10,4 +10,5 @@ module FancyDance
     end
     
     def pirouette 
-      
+      "I'm doing a pirouette"
+    end 
